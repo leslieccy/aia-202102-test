@@ -1,6 +1,10 @@
 # aia-202102-test
 AIA interview tech test
 
+Pre-requisites
+1. Node.js 15.8.0+
+2. Mongodb 4.4
+
 To start the node.js API
 1. cd /back/
 2. npm i
